@@ -10,7 +10,7 @@
 <a>https:github.com/AngelaAfonso/Profissoes.git</a>
 <br><a>https:github.com/HenriquePsDev/DesenvolvedorDeSoftware.gita</a>
 <br><a>https:github.com/Geovane-Julio/Profissoes.git</a>
-<a>https:github.com/CaiO-682/Profissoes.git</a>
+<br><a>https:github.com/CaiO-682/Profissoes.git</a>
 
 # Desenvolvedor de Software
 
