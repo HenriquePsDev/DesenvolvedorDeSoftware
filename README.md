@@ -10,7 +10,7 @@
 <a>https://github.com/AngelaAfonso/Profissoes.git</a>
 <br><a>https://github.com/HenriquePsDev/DesenvolvedorDeSoftware.git</a>
 <br><a>https://github.com/Geovane-Julio/Profissoes.git</a>
-<br><a>https://github.com/CaiO-682/Profissoes.git</a>
+<br><a>https://github.com/CaiO-682/Pericia.git</a>
 
 # Desenvolvedor de Software
 
